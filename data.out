@@ -1,0 +1,6 @@
+loading train...
+done.
+loading valid...
+done.
+sample: {'video_id': '--PJHxphWEs', 'audio': {'path': 'audio/bal_train/--PJHxphWEs.flac', 'array': array([-0.04364824, -0.05268681, -0.0568949 , ...,  0.11446512,
+        0.14912748,  0.13409865]), 'sampling_rate': 48000}, 'labels': ['/m/09x0r', '/t/dd00088'], 'human_labels': ['Speech', 'Gush']}
